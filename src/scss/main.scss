@@ -1,0 +1,41 @@
+
+
+
+
+
+
+/* Style for "Rectangle" */
+
+.facts {
+    width: 1920px;
+    height: 270px;
+    background-color: #95e1d3;
+}
+
+.facts .row div {
+    border: 1px solid #ffffff;
+    //  opacity: 0.3;
+    border-bottom-style: none;
+    border-top-style: none;
+}
+
+.facts p.stat {
+    width: 85px;
+    height: 51px;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 72px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.facts p.text {
+   width: 101px;
+height: 10px;
+color: #ffffff;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+text-transform: uppercase; 
+}
